@@ -20,6 +20,7 @@
 Projeto feito na NLW 4 da RocketSeat
 
 ## 🔧 Deploy 
+[deploy](https://6269d1fe61d7222162425c39--shiny-seahorse-79cf44.netlify.app/)
 
 ## ✨ Tecnologias
 
